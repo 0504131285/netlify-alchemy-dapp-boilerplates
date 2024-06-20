@@ -10,3 +10,15 @@ export default function Home() {
     </div>
   );
 }
+<!DOCTYPE html>
+
+<html>
+  <body>
+  <div class="container-fluid bg-secondary text-light">
+                <div class="row">
+                    <div class="col col-center text-light " style="color: white; font-size: 15px; text-align: center;"> Copyright © LiBAJi 2023. Todos los derechos Reservados.
+                    </div>
+                </div>
+            </div>
+</body>
+</html>
