@@ -6,11 +6,11 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					PAGE<span>LIBAJI Jimmy Lisintuna</span>
+					PAGE<span>LIBAJI</span>
 				</h1>
 				<p>
-					Get started by editing this page in JIMMY{" "}
-					<span>/pages/index.js</span>
+					Copyright {" "}
+					<span>@Jimmy_Lisintuña</span>
 				</p>
 			</header>
 
