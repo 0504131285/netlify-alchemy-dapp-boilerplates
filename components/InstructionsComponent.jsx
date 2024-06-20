@@ -9,7 +9,7 @@ export default function InstructionsComponent() {
 					create<span>-web3-dapp</span>
 				</h1>
 				<p>
-					Get started by editing this page in{" "}
+					Get started by editing this page in JIMMY{" "}
 					<span>/pages/index.js</span>
 				</p>
 			</header>
