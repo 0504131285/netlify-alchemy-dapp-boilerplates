@@ -4,7 +4,7 @@ export default function Navbar() {
 	return (
 		<nav className={styles.navbar}>
 			<a href="https://alchemy.com/?a=create-web3-dapp" target={"_blank"}>
-				<img className={styles.alchemy_logo} src="/libaji.jpg"></img>
+				<img className={styles.alchemy_logo} src="/libaji.jpg" style="border-radius: 50%;"></img>
 			</a>
 			<ConnectButton></ConnectButton>
 		</nav>
