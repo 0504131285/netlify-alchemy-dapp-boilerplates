@@ -6,7 +6,7 @@ export default function InstructionsComponent() {
 		<div className={styles.container}>
 			<header className={styles.header_container}>
 				<h1>
-					PAGE<span>LIBAJI</span>
+					PAGE<span> LIBAJI</span>
 				</h1>
 				<p>
 					Copyright {" "}
